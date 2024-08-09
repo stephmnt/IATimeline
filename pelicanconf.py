@@ -1,4 +1,5 @@
 AUTHOR = 'Stéphane Manet'
+AUTHOR = 'Stéphane Manet'
 SITENAME = "Une histoire de l'intelligence artificielle"
 SITEURL = "https://stephmnt.github.io/IATimeline/"
 

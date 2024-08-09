@@ -166,3 +166,4 @@ cython_debug/
 *.psb
 notes.md
 .DS_Store
+.idea
