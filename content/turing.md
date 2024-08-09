@@ -1,6 +1,6 @@
 Title: Le test de Turing
 Year: 1950
-Media: /images/turing.jpg
+Media: ./images/turing.jpg
 Caption: Photographe inconnu — https://i0.wp.com/universityarchives.princeton.edu/wp-content/uploads/sites/41/2014/11/Turing_Card_1.jpg?ssl=1, Domaine public, https://commons.wikimedia.org/w/index.php?curid=137325684
 Thumbnail: /images/turing.jpg
 Group: Intellectuel

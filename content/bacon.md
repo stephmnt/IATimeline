@@ -1,7 +1,7 @@
 Title: Roger Bacon
 Year: 1100
 Display_date: XIIe siècle
-Media: /images/bacon.jpg
+Media: ./images/bacon.jpg
 Caption: Sculpture du scientifique anglais du XIIIe siècle Roger Bacon tenant une sphère armillaire. Musée d'histoire naturelle de l'Université d'Oxford
 Group: Scientifique
 Thumbnail:

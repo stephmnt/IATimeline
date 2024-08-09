@@ -1,5 +1,5 @@
 Title: Guide du prompting
-Image: /images/livre-blanc.jpeg
+Image: ./images/livre-blanc.jpeg
 id: guide
 
 
