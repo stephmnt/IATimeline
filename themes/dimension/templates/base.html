@@ -5,7 +5,7 @@
 		<title>{% block title %} {{ SITENAME }} {% endblock %}</title>
 		<meta charset="utf-8" />
 	  	<meta name="viewport" content="width=device-width, initial-scale=1">
-	  	<meta name="description" content="{{ AUTHOR_DESCRIPTION }}">
+	  	<meta name="description" content="{{ METADESCRIPTION }}">
 	  	<meta name="author" content="{{ AUTHOR }}">
 
 <!-- Meta Tags-->
@@ -17,7 +17,7 @@
     <meta property="og:description" content="Timeline de l'IA.">
     <meta property="og:url" content="{{ SITEURL }}">
     <meta property="og:image" content="{{ SITEURL }}/theme/images/og-img.png">
-    <meta name="theme-color" content="#078488">
+    <meta name="theme-color" content="#557a71">
     <meta name="msapplication-navbutton-color" content="#078488">
     <meta name="apple-mobile-web-app-status-bar-style" content="#078488">
 
@@ -27,16 +27,10 @@
 	<link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/apple-touch-icon.png">
 
 	<!-- Custom Browser Color -->
-	<meta name="theme-color" content="#4A6583">
-	<meta name="msapplication-navbutton-color" content="#4A6583">
-	<meta name="apple-mobile-web-app-status-bar-style" content="#4A6583">
+	<meta name="theme-color" content="#557a71">
+	<meta name="msapplication-navbutton-color" content="#557a71">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#557a71">
 
-
-
-		<!-- schema.org -->
-		<meta itemprop="name" content="{{ SITENAME }}">
-		<meta itemprop="image" content="{{ AVATAR}}">
-		<meta itemprop="description" content="{{ AUTHOR_DESCRIPTION }}">
 
 		<!-- Feed Meta Data -->
 		{% if FEED_ALL_ATOM %}
@@ -67,6 +61,15 @@
 		</script>
 		{# endif #}
 		<noscript><link rel="stylesheet" href="{{ SITEURL }}/theme/css/noscript.css" /></noscript>
+		<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DLF3MNLBWC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DLF3MNLBWC');
+</script>
 	</head>
 	<body class="is-preload">
 

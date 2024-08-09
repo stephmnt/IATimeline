@@ -1,4 +1,4 @@
-Title: Intro
+Title: Introduction
 id: intro
 Image: theme/images/og-img.png
 
