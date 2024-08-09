@@ -13,35 +13,6 @@
     "events": [
         {
             "start_date": {
-                "year": "2018",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "2018"
-            },
-            "text": {
-                "headline": "Le Test du Caf\u00e9 par Steve Wozniak",
-                "text": "Steve Wozniak propose en 2018 le \u00ab test du caf\u00e9 \u00bb pour \u00e9valuer l'intelligence d'une IA, qui consiste \u00e0 placer un syst\u00e8me autonome dans une maison pour lui demander de pr\u00e9parer un caf\u00e9, testant ainsi sa capacit\u00e9 \u00e0 effectuer des t\u00e2ches quotidiennes."
-            },
-            "media": {
-                "url": "./images/cafe.webp",
-                "caption": "Prompt : A steaming cup of coffee in a white ceramic mug, placed on a rustic wooden table. The soft morning light illuminates the steam rising from the cup, with a blurred background of a cozy caf\u00e9. Created Using: warm color tones, shallow depth of field, natural light, soft shadows, detailed textures, cinematic feel",
-                "thumbnail": "",
-                "alt": "",
-                "title": "",
-                "link": "",
-                "target": ""
-            },
-            "background": "",
-            "group": "Intellectuel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
                 "year": "-300",
                 "month": "",
                 "day": "",
@@ -3033,6 +3004,35 @@
             },
             "background": "",
             "group": "Culturel",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "",
+                "day": "",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "2018"
+            },
+            "text": {
+                "headline": "Le Test du Caf\u00e9 par Steve Wozniak",
+                "text": "Steve Wozniak propose en 2018 le \u00ab test du caf\u00e9 \u00bb pour \u00e9valuer l'intelligence d'une IA, qui consiste \u00e0 placer un syst\u00e8me autonome dans une maison pour lui demander de pr\u00e9parer un caf\u00e9, testant ainsi sa capacit\u00e9 \u00e0 effectuer des t\u00e2ches quotidiennes."
+            },
+            "media": {
+                "url": "./images/cafe.webp",
+                "caption": "Prompt : A steaming cup of coffee in a white ceramic mug, placed on a rustic wooden table. The soft morning light illuminates the steam rising from the cup, with a blurred background of a cozy caf\u00e9. Created Using: warm color tones, shallow depth of field, natural light, soft shadows, detailed textures, cinematic feel",
+                "thumbnail": "",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Intellectuel",
             "autolink": "",
             "type": ""
         },
