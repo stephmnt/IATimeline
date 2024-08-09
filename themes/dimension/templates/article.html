@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+				{% block content %}
+				<!-- header -->
+					<header id="header">
+
+						<div class="content">
+							<div class="inner">
+								<h1>{{ article.title }}</h1>
+								{{ article.content }}
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="{{ SITEURL }}">Retour</a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						{% for p in pages %}
+						<article id="{{ p.id }}">
+							<span class="image main"><img src="{{ SITEURL }}/theme/images/pic01.jpg" alt="{{ p.title }}" /></span>
+							<h2 class="major">{{ p.title }}</h2>
+							<div>{{ p.content }}</div>
+						</article>
+						{% endfor %}
+						<article id="about">
+							<span class="image main"><img src="{{ SITEURL }}/theme/images/pic01.jpg" alt="Photo de l'auteur" /></span>
+							<h2 class="major">À propos</h2>
+							<div>
+								{% if SITEDESCRIPTION  %}
+								{{ SITEDESCRIPTION }}
+								{% endif  %}
+							{% if SOCIAL %}
+								<h3>Me contacter</h3>
+								{% for name, link in SOCIAL %}
+								<li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+								{% endfor %}
+							{% endif %}
+							</div>
+						</article>
+					</div>
+					{% endblock %}

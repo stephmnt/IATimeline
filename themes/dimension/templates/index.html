@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block content %}
+				<!-- header -->
+					<header id="header">
+
+						<div class="content">
+							<div class="inner">
+								<h1>{{ SITENAME }}</h1>
+								<div id='timeline-embed' style="width: 100%; height: 500px"></div>
+							</div>
+						</div>
+						{% if DISPLAY_PAGES_ON_MENU and pages %}
+						<nav>
+							<ul>
+								{% for p in pages %}
+								<li><a href="#{{ p.id }}">{{ p.title }}</a></li>
+        						{% endfor %}
+								<li><a href="#about">À propos</a></li>
+							</ul>
+						</nav>
+						{% endif %}
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						{% for p in pages %}
+						<article id="{{ p.id }}">
+							<span class="image main"><img src="{{ p.image }}" alt="{{ p.title }}" /></span>
+							<h2 class="major">{{ p.title }}</h2>
+							<div>{{ p.content }}</div>
+						</article>
+						{% endfor %}
+						<article id="about">
+							<h2 class="major">À propos</h2>
+							<div>
+								{% if SITEDESCRIPTION  %}
+								{{ SITEDESCRIPTION }}
+								{% endif  %}
+								<p>La timeline comprend actuellement {{ articles|length }} entrées.</p>
+
+								<h3>Références bibliographiques</h3>
+								<ul>
+								{% for article in articles %}
+								  {% if article.category.name == 'Livres' %}
+									<li><a href="{{ article.link }}" target="_blank">{{ article.title }}</a></li>
+								  {% endif %}
+								{% endfor %}
+								</ul>
+
+							{% if SOCIAL %}
+
+
+								<h3>Me contacter</h3>
+								{% for name, link in SOCIAL %}
+								<li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+								{% endfor %}
+							{% endif %}
+							</div>
+						</article>
+					</div>
+				{% endblock %}

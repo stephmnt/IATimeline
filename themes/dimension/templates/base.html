@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		{% block head %}
+		<title>{% block title %} {{ SITENAME }} {% endblock %}</title>
+		<meta charset="utf-8" />
+	  	<meta name="viewport" content="width=device-width, initial-scale=1">
+	  	<meta name="description" content="{{ AUTHOR_DESCRIPTION }}">
+	  	<meta name="author" content="{{ AUTHOR }}">
+
+<!-- Meta Tags-->
+    <meta name="generator" content="GravCMS">
+    <meta name="description" content="Consultant et formateur freelance spécialiste des métiers de la formation, de l&amp;apos;innovation, du numérique et des dispositifs hybrides (digital learning, blended learning) en ingénierie pédagogique.">
+    <meta property="og:image:height" content="1200">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:title" content="Manet Formation">
+    <meta property="og:description" content="Consultant et formateur freelance spécialiste des métiers de la formation, de l&amp;apos;innovation, du numérique et des dispositifs hybrides (digital learning, blended learning) en ingénierie pédagogique.">
+    <meta property="og:url" content="{{ SITEURL }}">
+    <meta property="og:image" content="{{ SITEURL }}/theme/images/og-img.png">
+    <meta name="theme-color" content="#078488">
+    <meta name="msapplication-navbutton-color" content="#078488">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#078488">
+
+	<!-- Template Favicon & Icons -->
+	<link rel="icon" href="{{ SITEURL }}/theme/images/favicon.png" sizes="any">
+	<link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.png">
+	<link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/apple-touch-icon.png">
+
+	<!-- Custom Browser Color -->
+	<meta name="theme-color" content="#4A6583">
+	<meta name="msapplication-navbutton-color" content="#4A6583">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#4A6583">
+
+
+
+		<!-- schema.org -->
+		<meta itemprop="name" content="{{ SITENAME }}">
+		<meta itemprop="image" content="{{ AVATAR}}">
+		<meta itemprop="description" content="{{ AUTHOR_DESCRIPTION }}">
+
+		<!-- Feed Meta Data -->
+		{% if FEED_ALL_ATOM %}
+		<link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
+		{% endif %}
+		{% if FEED_ALL_RSS %}
+		<link href="{{ SITEURL }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+		{% endif %}
+		{% endblock %}
+		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" />
+		<style>
+			#bg:after {background-image: url("{{ SITEURL }}/theme/images/bg.webp");}
+</style>
+		{# if "timeline_js" is plugin_enabled #}
+        <link title="timeline-styles" rel="stylesheet"
+              href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+        <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+		<script>
+		$(document).ready(function() {
+			var $embed = $('#timeline-embed');
+
+			// Initialise la Timeline avec des options supplémentaires
+			window.timeline = new TL.Timeline('timeline-embed', 'timeline.json', {
+				hash_bookmark: false
+			});
+		});
+		</script>
+		{# endif #}
+		<noscript><link rel="stylesheet" href="{{ SITEURL }}/theme/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				{% block content %}
+				<!-- header -->
+					<header id="header">
+
+						<div class="content">
+							<div class="inner">
+								<h1>{{ SITENAME }}</h1>
+								<div id='timeline-embed' style="width: 100%; height: 500px"></div>
+							</div>
+						</div>
+						{% if DISPLAY_PAGES_ON_MENU and pages %}
+						<nav>
+							<ul>
+								{% for p in pages %}
+								<li><a href="#{{ p.id }}">{{ p.title }}</a></li>
+        						{% endfor %}
+								<li><a href="#about">À propos</a></li>
+							</ul>
+						</nav>
+						{% endif %}
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						{% for p in pages %}
+						<article id="{{ p.id }}">
+							<span class="image main"><img src="{{ SITEURL }}/theme/images/pic01.jpg" alt="{{ p.title }}" /></span>
+							<h2 class="major">{{ p.title }}</h2>
+							<div>{{ p.content }}</div>
+						</article>
+						{% endfor %}
+						<article id="about">
+							<span class="image main"><img src="{{ SITEURL }}/theme/images/pic01.jpg" alt="Photo de l'auteur" /></span>
+							<h2 class="major">À propos</h2>
+							<div>
+								<p>La timeline comprend {{ articles|length }} entrées.</p>
+								{% if SITEDESCRIPTION  %}
+								{{ SITEDESCRIPTION }}
+								{% endif  %}
+							{% if SOCIAL %}
+								<h3>Me contacter</h3>
+								{% for name, link in SOCIAL %}
+								<li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+								{% endfor %}
+							{% endif %}
+							</div>
+						</article>
+					</div>
+				{% endblock %}
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; {{ SITENAME }}. <a href="https://avanta.fr" target="_blank">avanta.fr</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+			<script src="{{ SITEURL }}/theme/js/browser.min.js"></script>
+			<script src="{{ SITEURL }}/theme/js/breakpoints.min.js"></script>
+			<script src="{{ SITEURL }}/theme/js/util.js"></script>
+			<script src="{{ SITEURL }}/theme/js/main.js"></script>
+
+	</body>
+</html>
