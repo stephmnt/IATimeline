@@ -36,7 +36,7 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/stephanemanet'),
 DISPLAY_PAGES_ON_MENU = True
 
 # Configuration pour la timeline
-TIMELINE_MEDIA_URL = '/images/une-histoire-de-lintelligence-artificielle.webp'
+TIMELINE_MEDIA_URL = 'images/une-histoire-de-lintelligence-artificielle.webp'
 TIMELINE_CAPTION = 'Certaines images sont générées par intelligence artificielle'
 TIMELINE_CREDIT = 'Prompt : un ordinateur à l\'époque des années 50 avec de vieux transistors.'
 TIMELINE_HEADLINE = 'Une histoire de l\'intelligence artificielle'
