@@ -25,7 +25,7 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = ['timeline_js']
 THEME = 'themes/dimension'
 
-SITEDESCRIPTION = '<p>Ce site a été réalisé à l\'aide de la library <a href="http://timeline.knightlab.com" target="_blank">TimelineJS</a> et du moteur de template <a href="https://getpelican.com" target="_blank">Pelican</a> (en Python). Le thème s\'appuie sur "header" par <a href="https://html5up.net" target="_blank">html5up</a>.</p> <p>Vous pouvez consulter le code source du projet sur sa page <a href="https://github.com/stephmnt/IATimeline">Github</a>.</p>'
+SITEDESCRIPTION = '<p>Ce site a été réalisé à l\'aide de la library <a href="http://timeline.knightlab.com" target="_blank">TimelineJS</a> et du moteur de template <a href="https://getpelican.com" target="_blank">Pelican</a> (en Python). Le thème s\'appuie sur "Dimension" par <a href="https://html5up.net" target="_blank">html5up</a>.</p> <p>Vous pouvez consulter le code source du projet sur sa page <a href="https://github.com/stephmnt/IATimeline">Github</a>.</p>'
 
 # Social widgets
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/stephanemanet'),
