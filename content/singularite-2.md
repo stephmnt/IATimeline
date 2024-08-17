@@ -1,4 +1,4 @@
-Title: The Singularity is Near
+Title: The singularity is near
 Year: 2015
 Display_date: 2015
 Group: Intellectuel
