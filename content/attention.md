@@ -1,4 +1,4 @@
-                                Title: "Attention is All You Need"
+Title: "Attention is All You Need"
 Year: 2017
 Month: 06
 Day: 12

@@ -13,6 +13,35 @@
     "events": [
         {
             "start_date": {
+                "year": "2017",
+                "month": "06",
+                "day": "12",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "12 juin 2017"
+            },
+            "text": {
+                "headline": "\"Attention is All You Need\"",
+                "text": "L'article intitul\u00e9 <a href=\"https://arxiv.org/abs/1706.03762\" target=\"_blank\">Attention is All You Need</a> publi\u00e9 en 2017, a introduit le concept r\u00e9volutionnaire des Transformers, une architecture d'apprentissage profond qui utilise un m\u00e9canisme d'attention pour am\u00e9liorer significativement l'efficacit\u00e9 et la pr\u00e9cision des mod\u00e8les de traitement du langage naturel. Cette innovation a jou\u00e9 un r\u00f4le cl\u00e9 dans le d\u00e9veloppement de mod\u00e8les de langage avanc\u00e9s, y compris ceux utilis\u00e9s par OpenAI, tels que GPT-3. Le mod\u00e8le Transformer est devenu la base des progr\u00e8s les plus significatifs dans le domaine de l'intelligence artificielle, influen\u00e7ant non seulement le traitement du langage mais aussi d'autres applications d'apprentissage automatique n\u00e9cessitant la gestion de s\u00e9quences longues et complexes."
+            },
+            "media": {
+                "url": "",
+                "caption": "",
+                "thumbnail": "",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Scientifique",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
                 "year": "-300",
                 "month": "",
                 "day": "",
@@ -201,9 +230,9 @@
                 "text": "En 1947, William Grey Walter cr\u00e9e les \u00ab Tortues de Bristol \u00bb, consid\u00e9r\u00e9es comme les premiers robots mobiles autonomes. Inspir\u00e9s par les principes de la cybern\u00e9tique, ces robots capables de naviguer seuls dans leur environnement sont des pr\u00e9curseurs des technologies robotiques modernes."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg/1920px-Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg",
+                "url": "./images/tortues.jpg",
                 "caption": "",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg/1920px-Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg",
+                "thumbnail": "./images/tortues.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -226,13 +255,13 @@
                 "display_date": "2008"
             },
             "text": {
-                "headline": "Walle",
-                "text": "\"Walle\", cr\u00e9\u00e9 par Andrew Stanton en 2008, est un film d'animation qui raconte l'histoire d'un petit robot terrien qui montre des capacit\u00e9s \u00e9motionnelles, \u00e9veillant la conscience environnementale et explorant les th\u00e8mes de la solitude et de l'espoir."
+                "headline": "Wall-e",
+                "text": "\"Wall-e\", cr\u00e9\u00e9 par Andrew Stanton en 2008, est un film d'animation qui raconte l'histoire d'un petit robot terrien qui montre des capacit\u00e9s \u00e9motionnelles, \u00e9veillant la conscience environnementale et explorant les th\u00e8mes de la solitude et de l'espoir."
             },
             "media": {
-                "url": "",
+                "url": "./images/wall-e.jpg",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/wall-e.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -256,12 +285,12 @@
             },
             "text": {
                 "headline": "Rapport de C\u00e9dric Villani",
-                "text": "En 2018, C\u00e9dric Villani, math\u00e9maticien et d\u00e9put\u00e9 fran\u00e7ais, publie le rapport intitul\u00e9 [Donner un sens \u00e0 l'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194). Le rapport met l'accent sur la n\u00e9cessit\u00e9 de d\u00e9velopper une IA \u00e9thique et centr\u00e9e sur l'humain, tout en renfor\u00e7ant les capacit\u00e9s de recherche et d'innovation de la France. Il propose des mesures pour am\u00e9liorer la formation en IA, soutenir les startups, et assurer une utilisation responsable de l'IA dans divers secteurs comme la sant\u00e9, l'environnement et les transports."
+                "text": "En 2018, C\u00e9dric Villani, math\u00e9maticien et d\u00e9put\u00e9 fran\u00e7ais, publie le rapport intitul\u00e9 <a href=\"https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194\" target=\"_blank\">Donner un sens \u00e0 l'intelligence artificielle</a>. Le rapport met l'accent sur la n\u00e9cessit\u00e9 de d\u00e9velopper une IA \u00e9thique et centr\u00e9e sur l'humain, tout en renfor\u00e7ant les capacit\u00e9s de recherche et d'innovation de la France. Il propose des mesures pour am\u00e9liorer la formation en IA, soutenir les startups, et assurer une utilisation responsable de l'IA dans divers secteurs comme la sant\u00e9, l'environnement et les transports."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cedric_Villani_at_his_office_2015_n3.jpg/440px-Cedric_Villani_at_his_office_2015_n3.jpg",
+                "url": "./images/villani.jpg",
                 "caption": "Le math\u00e9maticien fran\u00e7ais C\u00e9dric Villani dans son bureau de l'Institut Henri-Poincar\u00e9.",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cedric_Villani_at_his_office_2015_n3.jpg/440px-Cedric_Villani_at_his_office_2015_n3.jpg",
+                "thumbnail": "./images/villani.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -375,9 +404,9 @@
                 "text": "Le film \"Tron\" de Steven Lisberger en 1982 raconte l'histoire d'un programme de jeu qui \u00e9volue en une IA autonome et hostile, explorant les th\u00e8mes de la conscience num\u00e9rique et du combat virtuel pour la libert\u00e9."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/M/MV5BZjgxYzk3NjItNDliMC00YzE5LWEzZDQtZjJjZWUyNjE2MGFkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg",
+                "url": "./images/tron.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxYzk3NjItNDliMC00YzE5LWEzZDQtZjJjZWUyNjE2MGFkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg",
+                "thumbnail": "./images/tron.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -462,9 +491,9 @@
                 "text": "\"Terminator\" de James Cameron, sorti en 1984, a significativement fa\u00e7onn\u00e9 la perception publique de l'IA avec son portrait d'un assassin cyborg impitoyable, soulignant les peurs associ\u00e9es \u00e0 l'IA avanc\u00e9e et \u00e0 la robotique."
             },
             "media": {
-                "url": "",
+                "url": "./images/terminator.jpg",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/terminator.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -517,12 +546,12 @@
             },
             "text": {
                 "headline": "Superintelligence",
-                "text": "Nick Bostrom publie \"[Superintelligence](https://amzn.to/3YCJf2Y)\" en 2014, o\u00f9 il examine les sc\u00e9narios o\u00f9 les IA surpassent l'intelligence humaine, posant des questions cruciales sur l'avenir de l'humanit\u00e9 et les risques existentiels associ\u00e9s."
+                "text": "Nick Bostrom publie <a href=\"https://amzn.to/3YCJf2Y\" target=\"_blank\">Superintelligence</a>\" en 2014, o\u00f9 il examine les sc\u00e9narios o\u00f9 les IA surpassent l'intelligence humaine, posant des questions cruciales sur l'avenir de l'humanit\u00e9 et les risques existentiels associ\u00e9s."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/91UMfqRm-TL._SL1500_.jpg",
+                "url": "./images/superintelligence.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/91UMfqRm-TL._SL1500_.jpg",
+                "thumbnail": "./images/superintelligence.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/3YCJf2Y",
@@ -662,12 +691,12 @@
             },
             "text": {
                 "headline": "The Singularity is Near",
-                "text": "Dans \"[The Singularity is Near](https://amzn.to/3WAFjNz)\", Ray Kurzweil popularise en 2015 l'id\u00e9e de la Singularit\u00e9 technologique, une \u00e8re o\u00f9 les humains pourraient transcender les limitations biologiques gr\u00e2ce \u00e0 l'avanc\u00e9e des technologies, notamment l'IA."
+                "text": "Dans <a href=\"https://amzn.to/3WAFjNz\" target=\"_blank\">The Singularity is Near</a>, Ray Kurzweil popularise en 2015 l'id\u00e9e de la Singularit\u00e9 technologique, une \u00e8re o\u00f9 les humains pourraient transcender les limitations biologiques gr\u00e2ce \u00e0 l'avanc\u00e9e des technologies, notamment l'IA."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/81+PcSckTwL._SL1500_.jpg",
+                "url": "./images/kurzweil.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/81+PcSckTwL._SL1500_.jpg",
+                "thumbnail": "/images/kurzweil.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/3WAFjNz",
@@ -723,9 +752,9 @@
                 "text": "Dans Minds, Brains, and Science (1980), John Searle introduit l'exp\u00e9rience de pens\u00e9e de la \"chambre chinoise\" pour critiquer les limitations du test de Turing. Il argumente que la simulation de la compr\u00e9hension du langage par une machine ne constitue pas une v\u00e9ritable compr\u00e9hension, questionnant la nature de la conscience et de l'intelligence artificielle."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/61wV8iSkHML._SL1360_.jpg",
+                "url": "./images/searle.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/61wV8iSkHML._SL1360_.jpg",
+                "thumbnail": "./images/searle.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -897,7 +926,7 @@
             },
             "text": {
                 "headline": "Ouverture de l'Institut PRAIRIE \u00e0 Paris",
-                "text": "En 2019, l'Institut [PRAIRIE](https://prairie-institute.fr) (PaRis Artificial Intelligence Research InstitutE) est inaugur\u00e9 \u00e0 Paris, en partenariat avec des acteurs majeurs de l'industrie et de l'acad\u00e9mie. Cet institut vise \u00e0 promouvoir l'excellence dans le domaine de l'IA et \u00e0 d\u00e9velopper des technologies innovantes en collaboration avec des entreprises technologiques et des universit\u00e9s."
+                "text": "En 2019, l'Institut <a href=\"https://prairie-institute.fr\" target=\"_blank\">PRAIRIE</a> (PaRis Artificial Intelligence Research InstitutE) est inaugur\u00e9 \u00e0 Paris, en partenariat avec des acteurs majeurs de l'industrie et de l'acad\u00e9mie. Cet institut vise \u00e0 promouvoir l'excellence dans le domaine de l'IA et \u00e0 d\u00e9velopper des technologies innovantes en collaboration avec des entreprises technologiques et des universit\u00e9s."
             },
             "media": {
                 "url": "",
@@ -909,7 +938,7 @@
                 "target": ""
             },
             "background": "",
-            "group": "Culturel",
+            "group": "Scientifique",
             "autolink": "",
             "type": ""
         },
@@ -984,12 +1013,12 @@
             },
             "text": {
                 "headline": "La critique de Roger Penrose sur le calcul",
-                "text": "Dans son livre \"The Emperor's New Mind\" (1989), Roger Penrose soutient que de nombreux comportements humains ont une base non algorithmique et ne d\u00e9pendent pas uniquement des op\u00e9rations de calcul, remettant en question les vues dominantes sur les capacit\u00e9s de l'intelligence artificielle."
+                "text": "Dans son livre <a href=\"https://amzn.to/3YJmTwI\" target=\"_blank\">The Emperor's New Mind</a> (1989), Roger Penrose soutient que de nombreux comportements humains ont une base non algorithmique et ne d\u00e9pendent pas uniquement des op\u00e9rations de calcul, remettant en question les vues dominantes sur les capacit\u00e9s de l'intelligence artificielle."
             },
             "media": {
-                "url": "",
+                "url": "./images/penrose.jpg",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/penrose.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1042,12 +1071,12 @@
             },
             "text": {
                 "headline": "Naissance du terme \"Ordinateur\"",
-                "text": "Fran\u00e7ois Girard, d'IBM France, consulte le philologue Jacques Perret en 1955 pour traduire le terme anglais \"computer\". Perret propose \"ordinateur\", du latin \"ordinator\" (\u00ab qui met en ordre \u00bb), un terme initialement appliqu\u00e9 \u00e0 Dieu. [Que diriez-vous d\u2019ordinateur ?](https://journals.openedition.org/bibnum/534)."
+                "text": "Fran\u00e7ois Girard, d'IBM France, consulte le philologue Jacques Perret en 1955 pour traduire le terme anglais \"computer\". Perret propose \"ordinateur\", du latin \"ordinator\" (\u00ab qui met en ordre \u00bb), un terme initialement appliqu\u00e9 \u00e0 Dieu. Voir : <a href=\"https://journals.openedition.org/bibnum/534\" target=\"_blank\">Que diriez-vous d\u2019ordinateur ?</a>."
             },
             "media": {
-                "url": "https://journals.openedition.org/bibnum/docannexe/image/534/img-2-small580.jpg",
+                "url": "./images/perret.jpg",
                 "caption": "",
-                "thumbnail": "https://journals.openedition.org/bibnum/docannexe/image/534/img-2-small580.jpg",
+                "thumbnail": "./images/perret.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1129,12 +1158,12 @@
             },
             "text": {
                 "headline": "D\u00e9finition de l'Intelligence par Newell et Simon",
-                "text": "Dans \"[GPS: A Program that Simulates Human Thought](https://www.academia.edu/1026508/GPS_a_program_that_simulates_human_thought)\", Allen Newell et Herbert A. Simon d\u00e9finissent en 1963 l'intelligence comme une \"manipulation de symboles\" selon des r\u00e8gles formelles, offrant une perspective influente sur la cognition artificielle."
+                "text": "Dans <a href=\"https://www.academia.edu/1026508/GPS_a_program_that_simulates_human_thought\" target=\"_blank\">GPS: A Program that Simulates Human Thought</a>, Allen Newell et Herbert A. Simon d\u00e9finissent en 1963 l'intelligence comme une \"manipulation de symboles\" selon des r\u00e8gles formelles, offrant une perspective influente sur la cognition artificielle."
             },
             "media": {
-                "url": "https://0.academia-photos.com/attachment_thumbnails/6264304/mini_magick20190427-11756-1w8gm90.png?1556370334",
+                "url": "./images/newell-simon.png",
                 "caption": "",
-                "thumbnail": "https://0.academia-photos.com/attachment_thumbnails/6264304/mini_magick20190427-11756-1w8gm90.png?1556370334",
+                "thumbnail": "./images/newell-simon.png",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1187,15 +1216,15 @@
             },
             "text": {
                 "headline": "Hans Moravec et les Implications de l'IA",
-                "text": "Dans \"Robot: Mere Machine to Transcendent Mind\", Hans Moravec explore en 1998 les implications de l'intelligence artificielle, critiquant son assimilation \u00e0 une simple simulation du cerveau humain et envisageant des possibilit\u00e9s transcendant cette approche."
+                "text": "Dans <a href=\"https://amzn.to/3SSaHpK\" target=\"_blank\">Robot: Mere Machine to Transcendent Mind</a>, Hans Moravec explore en 1998 les implications de l'intelligence artificielle, critiquant son assimilation \u00e0 une simple simulation du cerveau humain et envisageant des possibilit\u00e9s transcendant cette approche."
             },
             "media": {
-                "url": "",
+                "url": "./images/moravec.jpg",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/moravec.jpg",
                 "alt": "",
                 "title": "",
-                "link": "",
+                "link": "https://amzn.to/3SSaHpK",
                 "target": ""
             },
             "background": "",
@@ -1245,12 +1274,12 @@
             },
             "text": {
                 "headline": "L'Homme le plus dou\u00e9 du monde",
-                "text": "Dans sa nouvelle [L'Homme le plus dou\u00e9 du monde](https://amzn.to/3WGBo1K) de 1879, Edward Page Mitchell imagine un homme dont le cerveau est remplac\u00e9 par un ordinateur. Cette fiction explore t\u00f4t les th\u00e8mes de la cybern\u00e9tique et de l'am\u00e9lioration humaine \u00e0 travers la technologie."
+                "text": "Dans sa nouvelle <a href=\"https://amzn.to/3WGBo1K\" target=\"_blank\">L'Homme le plus dou\u00e9 du monde</a> de 1879, Edward Page Mitchell imagine un homme dont le cerveau est remplac\u00e9 par un ordinateur. Cette fiction explore t\u00f4t les th\u00e8mes de la cybern\u00e9tique et de l'am\u00e9lioration humaine \u00e0 travers la technologie."
             },
             "media": {
-                "url": "https://servimg.eyrolles.com/static/media/5349/9782369145349_internet_h1400.jpg",
+                "url": "./image/mitchell.jpg",
                 "caption": "",
-                "thumbnail": "https://servimg.eyrolles.com/static/media/5349/9782369145349_internet_h1400.jpg",
+                "thumbnail": "./image/mitchell.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/3WGBo1K",
@@ -1274,12 +1303,12 @@
             },
             "text": {
                 "headline": "Mistral",
-                "text": ""
+                "text": "En 2022, la France lance Mistral, une intelligence artificielle d\u00e9velopp\u00e9e localement visant \u00e0 rivaliser avec les grandes plateformes d'IA mondiales. Mistral repr\u00e9sente une avanc\u00e9e majeure dans le secteur technologique europ\u00e9en."
             },
             "media": {
-                "url": "https://www.radiofrance.fr/franceculture/podcasts/soft-power/mistral-ai-la-licorne-francaise-de-l-intelligence-artificielle-5832374",
+                "url": "./images/mistral.png",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/mistral.png",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1393,9 +1422,9 @@
                 "text": "En 1999, les Wachowski r\u00e9volutionnent le cin\u00e9ma avec \"Matrix\", un film qui plonge les spectateurs dans un monde o\u00f9 la r\u00e9alit\u00e9 est une simulation g\u00e9n\u00e9r\u00e9e par une intelligence artificielle, questionnant les limites de la perception et de la libert\u00e9."
             },
             "media": {
-                "url": "",
+                "url": "./images/matrix.jpg",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/matrix.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1419,15 +1448,15 @@
             },
             "text": {
                 "headline": "Ghost in the Shell",
-                "text": "\"Ghost in the Shell\", un manga de Masamune Shirow publi\u00e9 en 1989, pr\u00e9sente un andro\u00efde qui s'\u00e9veille \u00e0 la conscience. Cette histoire explore les th\u00e8mes de l'IA, de l'identit\u00e9 et de la fusion de l'humain et de la machine, influen\u00e7ant les discussions et les repr\u00e9sentations de l'IA dans la culture populaire."
+                "text": "<a href=\"https://amzn.to/4dOCvU6\" target=\"_blank\">Ghost in the Shell</a>, un manga de Masamune Shirow publi\u00e9 en 1989, pr\u00e9sente un andro\u00efde qui s'\u00e9veille \u00e0 la conscience. Cette histoire explore les th\u00e8mes de l'IA, de l'identit\u00e9 et de la fusion de l'humain et de la machine, influen\u00e7ant les discussions et les repr\u00e9sentations de l'IA dans la culture populaire."
             },
             "media": {
-                "url": "",
+                "url": "./images/gist.webp",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/gist.webp",
                 "alt": "",
                 "title": "",
-                "link": "",
+                "link": "https://amzn.to/4dOCvU6",
                 "target": ""
             },
             "background": "",
@@ -1448,7 +1477,7 @@
             },
             "text": {
                 "headline": "Avertissement sur l'usage malveillant de l'IA",
-                "text": "En 2018, vingt-six experts publient [The Malicious Use of Artificial Intelligence](https://arxiv.org/pdf/1802.07228), mettant en garde contre les risques d'utilisation criminelle de l'IA, soulignant la n\u00e9cessit\u00e9 de r\u00e9gulations pour pr\u00e9venir les abus."
+                "text": "En 2018, vingt-six experts publient <a href=\"https://arxiv.org/pdf/1802.07228\" target=\"_blank\">The Malicious Use of Artificial Intelligence</a>, mettant en garde contre les risques d'utilisation criminelle de l'IA, soulignant la n\u00e9cessit\u00e9 de r\u00e9gulations pour pr\u00e9venir les abus."
             },
             "media": {
                 "url": "",
@@ -1737,13 +1766,13 @@
                 "display_date": "1955"
             },
             "text": {
-                "headline": "L'Origine du Terme \"Intelligence Artificielle\"",
+                "headline": "L'origine du rerme \"Intelligence Artificielle\"",
                 "text": "John McCarthy invente le nom \"intelligence artificielle\" en 1955 lors de la r\u00e9daction du programme pour un s\u00e9minaire \u00e0 Dartmouth College, pr\u00e9vu pour l'ann\u00e9e suivante. Ce terme a depuis d\u00e9fini le champ d'\u00e9tude consacr\u00e9 \u00e0 la cr\u00e9ation de machines capables de simuler des aspects de l'intelligence humaine."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/John_McCarthy_Stanford.jpg/520px-John_McCarthy_Stanford.jpg",
+                "url": "./images/maccarthy.jpg",
                 "caption": "",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/John_McCarthy_Stanford.jpg/520px-John_McCarthy_Stanford.jpg",
+                "thumbnail": "./images/maccarthy.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1828,9 +1857,9 @@
                 "text": "Dans son \u0153uvre \"L\u00e9viathan\" de 1651, Thomas Hobbes d\u00e9finit la raison comme une forme de calcul, sp\u00e9cifiquement l'addition et la soustraction des cons\u00e9quences des termes g\u00e9n\u00e9raux convenus pour exprimer nos pens\u00e9es. Cette perspective m\u00e9canique de la logique et de la raison anticipe des notions modernes de traitement algorithmique de l'information."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg",
+                "url": "./images/hobbes.jpg",
                 "caption": "Thomas Hobbes, portrait par John Michael Wright, propri\u00e9t\u00e9 de la National Portrait Gallery \u00e0 Londres.",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg",
+                "thumbnail": "./images/hobbes.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1857,7 +1886,7 @@
                 "text": "H\u00e9ron d'Alexandrie, dans son \"Trait\u00e9 des automates\", d\u00e9crit une vari\u00e9t\u00e9 d'inventions m\u00e9caniques, telles que des carrousels automatiques et des fontaines orn\u00e9es d'oiseaux gazouillants, bas\u00e9es sur les travaux de Philon de Byzance. Ces automates d\u00e9montrent les avanc\u00e9es technologiques et la cr\u00e9ativit\u00e9 des ing\u00e9nieurs de l'Antiquit\u00e9."
             },
             "media": {
-                "url": "https://youtu.be/xyQIo9iS_z0",
+                "url": "https://www.youtube.com/watch?v=xyQIo9iS_z0",
                 "caption": "",
                 "thumbnail": "",
                 "alt": "",
@@ -1883,12 +1912,12 @@
             },
             "text": {
                 "headline": "Destination vide",
-                "text": "En 1966, Frank Herbert avec [Destination vide](https://amzn.to/4cnJFxc) explore le th\u00e8me de l'intelligence artificielle."
+                "text": "En 1966, Frank Herbert avec <a href=\"https://amzn.to/4cnJFxc\" target=\"_blank\">Destination vide</a> explore le th\u00e8me de l'intelligence artificielle."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/81BJycnIlKL._SL1500_.jpg",
+                "url": "./images/herbert.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/81BJycnIlKL._SL1500_.jpg",
+                "thumbnail": "./images/herbert.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/4cnJFxc",
@@ -1944,9 +1973,9 @@
                 "text": "Dans le film \"2001, l'Odyss\u00e9e de l'espace\" de Stanley Kubrick, inspir\u00e9 de \"La Sentinelle\" d'Arthur C. Clarke, l'ordinateur HAL 9000 se rebelle contre ses cr\u00e9ateurs humains. Ce r\u00e9cit explore les th\u00e8mes de l'intelligence artificielle, de la conscience et des limites \u00e9thiques de la technologie."
             },
             "media": {
-                "url": "https://cinedweller.com/wp-content/uploads/2020/02/2001-lodyssee-de-lespace-400x650.jpg.webp",
+                "url": "./image/2001.webp",
                 "caption": "",
-                "thumbnail": "https://cinedweller.com/wp-content/uploads/2020/02/2001-lodyssee-de-lespace-400x650.jpg.webp",
+                "thumbnail": "./image/2001.webp",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -1970,12 +1999,12 @@
             },
             "text": {
                 "headline": "Le Guide du voyageur galactique",
-                "text": "Dans [Le Guide du voyageur galactique](https://amzn.to/46GwEh3) (1978), Douglas Adams pr\u00e9sente un ordinateur, Deep Thought, qui r\u00e9pond \u00e0 \"la grande question sur la vie, l'Univers et le reste\" par le nombre 42, soulignant humoristiquement les limites et absurdit\u00e9s potentielles des r\u00e9ponses fournies par les ordinateurs."
+                "text": "Dans <a href=\"https://amzn.to/46GwEh3\" target=\"_blank\">Le Guide du voyageur galactique</a> (1978), Douglas Adams pr\u00e9sente un ordinateur, Deep Thought, qui r\u00e9pond \u00e0 \"la grande question sur la vie, l'Univers et le reste\" par le nombre 42, soulignant humoristiquement les limites et absurdit\u00e9s potentielles des r\u00e9ponses fournies par les ordinateurs."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/81JdLwE5F7L._AC_UF1000,1000_QL80_.jpg",
+                "url": "./images/h2g2.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/81JdLwE5F7L._AC_UF1000,1000_QL80_.jpg",
+                "thumbnail": "./images/h2g2.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/46GwEh3",
@@ -2057,7 +2086,7 @@
             },
             "text": {
                 "headline": "Pr\u00e9dictions sur les ultraintelligences par I. J. Good",
-                "text": "Irving John Good, en 1966, dans [Speculations Concerning the First Ultraintelligent Machine](https://www.sciencedirect.com/science/article/abs/pii/S0065245808604180), \u00e9voque des superintelligences surpassant largement les capacit\u00e9s humaines. Cette r\u00e9flexion ouvre la voie \u00e0 des d\u00e9bats sur les implications futures des avanc\u00e9es en IA, notamment en ce qui concerne la s\u00e9curit\u00e9 et l'\u00e9thique."
+                "text": "Irving John Good, en 1966, dans <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0065245808604180\" target=\"_blank\">Speculations Concerning the First Ultraintelligent Machine</a>, \u00e9voque des superintelligences surpassant largement les capacit\u00e9s humaines. Cette r\u00e9flexion ouvre la voie \u00e0 des d\u00e9bats sur les implications futures des avanc\u00e9es en IA, notamment en ce qui concerne la s\u00e9curit\u00e9 et l'\u00e9thique."
             },
             "media": {
                 "url": "",
@@ -2144,12 +2173,12 @@
             },
             "text": {
                 "headline": "The language of thought de Jerry Fodor",
-                "text": "Jerry Fodor, dans [The language of thought](https://amzn.to/3SGHzl2) (1975), propose que l'esprit fonctionne comme un logiciel, o\u00f9 la structure du mat\u00e9riel (hardware) - que ce soit un ordinateur ou un cerveau - n'est pas d\u00e9terminante pour la pens\u00e9e. Cette th\u00e9orie soutient que les processus cognitifs sont ind\u00e9pendants de leur support physique."
+                "text": "Jerry Fodor, dans <a href=\"https://amzn.to/3SGHzl2\" target=\"blank\">The language of thought</a> (1975), propose que l'esprit fonctionne comme un logiciel, o\u00f9 la structure du mat\u00e9riel (hardware) - que ce soit un ordinateur ou un cerveau - n'est pas d\u00e9terminante pour la pens\u00e9e. Cette th\u00e9orie soutient que les processus cognitifs sont ind\u00e9pendants de leur support physique."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/5157dTXOPgL._SL1360_.jpg",
+                "url": "./images/fodor.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/5157dTXOPgL._SL1360_.jpg",
+                "thumbnail": "./images/fodor.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/3SGHzl2",
@@ -2173,12 +2202,12 @@
             },
             "text": {
                 "headline": "EU Artificial Intelligence Act",
-                "text": "En 2021, l'Union europ\u00e9enne pr\u00e9sente l'[EU Artificial Intelligence Act](https://artificialintelligenceact.eu/fr/), une initiative r\u00e9glementaire pionni\u00e8re destin\u00e9e \u00e0 encadrer le d\u00e9veloppement et l'utilisation de l'IA dans les \u00c9tats membres. Cet acte vise \u00e0 garantir la s\u00e9curit\u00e9 et les droits fondamentaux tout en soutenant l'innovation et la comp\u00e9titivit\u00e9 de l'IA en Europe. Il cat\u00e9gorise les applications d'IA selon leur niveau de risque et impose des exigences strictes pour les syst\u00e8mes \u00e0 haut risque, notamment dans les domaines de la surveillance et de la biom\u00e9trie."
+                "text": "En 2021, l'Union europ\u00e9enne pr\u00e9sente l'<a href=\"https://artificialintelligenceact.eu/fr/\" target=\"_blank\">EU Artificial Intelligence Act</a>, une initiative r\u00e9glementaire pionni\u00e8re destin\u00e9e \u00e0 encadrer le d\u00e9veloppement et l'utilisation de l'IA dans les \u00c9tats membres. Cet acte vise \u00e0 garantir la s\u00e9curit\u00e9 et les droits fondamentaux tout en soutenant l'innovation et la comp\u00e9titivit\u00e9 de l'IA en Europe. Il cat\u00e9gorise les applications d'IA selon leur niveau de risque et impose des exigences strictes pour les syst\u00e8mes \u00e0 haut risque, notamment dans les domaines de la surveillance et de la biom\u00e9trie."
             },
             "media": {
-                "url": "https://artificialintelligenceact.eu/wp-content/uploads/2024/02/EU_AI_Act_Coverpage_wide.jpg",
+                "url": "./images/eu.jpg",
                 "caption": "",
-                "thumbnail": "https://artificialintelligenceact.eu/wp-content/uploads/2024/02/EU_AI_Act_Coverpage_wide.jpg",
+                "thumbnail": "./images/eu.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -2346,16 +2375,16 @@
                 "minute": "",
                 "second": "",
                 "millisecond": "",
-                "display_date": ""
+                "display_date": "29 f\u00e9vrier 2024"
             },
             "text": {
                 "headline": "Instanciations",
-                "text": "Greg Egan, auteur le plus influent de SF du XXIe si\u00e8cle, propose le recueil de nouvelles [Instanciations](https://amzn.to/4dgevt5) et explore le th\u00e8me de l'intelligence artificielle et de la vie digitale."
+                "text": "Greg Egan, auteur le plus influent de SF du XXIe si\u00e8cle, propose le recueil de nouvelles <a href=\"https://amzn.to/4dgevt5\" target=\"_blank\">Instanciations</a> et explore le th\u00e8me de l'intelligence artificielle et de la vie digitale."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/810tI6CxeUL._SL1500_.jpg",
+                "url": "./images/egan.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/810tI6CxeUL._SL1500_.jpg",
+                "thumbnail": "./images/egan.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/4dgevt5",
@@ -2379,12 +2408,12 @@
             },
             "text": {
                 "headline": "What computers can't do",
-                "text": "Hubert Dreyfus, dans son livre \"What Computers Can't Do\" de 1972, critique les approches dominantes de l'intelligence artificielle, arguant qu'elles sont vou\u00e9es \u00e0 l'\u00e9chec parce qu'elles n\u00e9gligent les aspects incarn\u00e9s de la cognition humaine, tels que l'intuition et le contexte, ce qui influence profond\u00e9ment la philosophie de l'IA."
+                "text": "Hubert Dreyfus, dans son livre <a href=\"https://amzn.to/46Og1Ac\" target=\"_blank\">What Computers Can't Do</a> de 1972, critique les approches dominantes de l'intelligence artificielle, arguant qu'elles sont vou\u00e9es \u00e0 l'\u00e9chec parce qu'elles n\u00e9gligent les aspects incarn\u00e9s de la cognition humaine, tels que l'intuition et le contexte, ce qui influence profond\u00e9ment la philosophie de l'IA."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/41MRVhu-8TL.jpg",
+                "url": "./images/dreyfus.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/41MRVhu-8TL.jpg",
+                "thumbnail": "./images/dreyfus.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -2408,12 +2437,12 @@
             },
             "text": {
                 "headline": "Les andro\u00efdes r\u00eavent-ils de moutons \u00e9lectriques ?",
-                "text": "Philip K. Dick avec [Les Andro\u00efdes r\u00eavent-ils de moutons \u00e9lectriques ?](https://amzn.to/3WZ1TQf) explore des th\u00e8mes de conscience et d'identit\u00e9 dans l'intelligence artificielle, influen\u00e7ant profond\u00e9ment la science-fiction et la perception publique de l'IA."
+                "text": "Philip K. Dick avec <a href=\"https://amzn.to/3WZ1TQf\" target=\"_blank\">Les Andro\u00efdes r\u00eavent-ils de moutons \u00e9lectriques ?</a> explore des th\u00e8mes de conscience et d'identit\u00e9 dans l'intelligence artificielle, influen\u00e7ant profond\u00e9ment la science-fiction et la perception publique de l'IA."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/71+e57EAuFL._SL1051_.jpg",
+                "url": "./images/dick.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/71+e57EAuFL._SL1051_.jpg",
+                "thumbnail": "./images/dick.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/3WZ1TQf",
@@ -2466,12 +2495,12 @@
             },
             "text": {
                 "headline": "Daniel Dennett et la Superintelligence",
-                "text": "Dans \"[From Bacteria to Bach and Back](https://amzn.to/46MGWwb)\", le philosophe Daniel Dennett discute en 2017 la possibilit\u00e9 de cr\u00e9er une superintelligence surpassant l'esprit humain, mais souligne que cette question reste th\u00e9orique pour l'instant, n\u00e9cessitant des avanc\u00e9es significatives et prudentes."
+                "text": "Dans <a href=\"https://amzn.to/46MGWwb\" target=\"_blank\">From Bacteria to Bach and Back</a>, le philosophe Daniel Dennett discute en 2017 la possibilit\u00e9 de cr\u00e9er une superintelligence surpassant l'esprit humain, mais souligne que cette question reste th\u00e9orique pour l'instant, n\u00e9cessitant des avanc\u00e9es significatives et prudentes."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/91c3UgbstuL._SL1500_.jpg",
+                "url": "./images/dennet.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/91c3UgbstuL._SL1500_.jpg",
+                "thumbnail": "./images/dennet.jpg",
                 "alt": "",
                 "title": "",
                 "link": "https://amzn.to/46MGWwb",
@@ -2527,7 +2556,7 @@
                 "text": "La cha\u00eene britannique ITV lance en 2022 \"Deep Fake Neighbour Wars\", une s\u00e9rie cr\u00e9\u00e9e gr\u00e2ce au proc\u00e9d\u00e9 de deepfake. Cette s\u00e9rie pionni\u00e8re utilise la technologie pour alt\u00e9rer des vid\u00e9os de mani\u00e8re r\u00e9aliste, ouvrant de nouvelles voies dans la production t\u00e9l\u00e9visuelle tout en suscitant des inqui\u00e9tudes sur les implications \u00e9thiques du deepfake."
             },
             "media": {
-                "url": "https://youtu.be/j4HCpv-w2_c?si=RVWNV2MojPGPpln9",
+                "url": "https://www.youtube.com/watch?v=j4HCpv-w2_c",
                 "caption": "",
                 "thumbnail": "",
                 "alt": "",
@@ -2991,15 +3020,15 @@
             },
             "text": {
                 "headline": "The Last Evolution",
-                "text": "John Campbell, dans sa nouvelle \"The Last Evolution\" de 1932, envisage un futur o\u00f9 les machines deviennent plus intelligentes que les humains et capables de s'adapter ind\u00e9finiment. Ce r\u00e9cit anticipe les discussions contemporaines sur l'intelligence artificielle et son potentiel \u00e0 surpasser les capacit\u00e9s humaines."
+                "text": "John Campbell, dans sa nouvelle <a href=\"https://amzn.to/3SOAtv6\" target=\"_blank\">The Last Evolution</a> de 1932, envisage un futur o\u00f9 les machines deviennent plus intelligentes que les humains et capables de s'adapter ind\u00e9finiment. Ce r\u00e9cit anticipe les discussions contemporaines sur l'intelligence artificielle et son potentiel \u00e0 surpasser les capacit\u00e9s humaines."
             },
             "media": {
-                "url": "https://m.media-amazon.com/images/I/51ZGR6zuB1L.jpg",
+                "url": "./images/campbell.jpg",
                 "caption": "",
-                "thumbnail": "https://m.media-amazon.com/images/I/51ZGR6zuB1L.jpg",
+                "thumbnail": "./images/campbell.jpg",
                 "alt": "",
                 "title": "",
-                "link": "",
+                "link": "https://amzn.to/3SOAtv6",
                 "target": ""
             },
             "background": "",
@@ -3052,9 +3081,9 @@
                 "text": "George Boole publie en 1854 \"Les Lois de la pens\u00e9e\", o\u00f9 il formalise les fondements de l'alg\u00e8bre bool\u00e9enne. Ce travail \u00e9tablit les bases math\u00e9matiques du raisonnement logique utilis\u00e9 dans la conception des circuits num\u00e9riques et des ordinateurs."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/George_Boole_color.jpg",
+                "url": "./images/boole.jog",
                 "caption": "Wikipedia",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/ce/George_Boole_color.jpg",
+                "thumbnail": "./images/boole.jog",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3110,9 +3139,9 @@
                 "text": "Inspir\u00e9 par \"Les Andro\u00efdes r\u00eavent-ils de moutons \u00e9lectriques ?\" de Philip K. Dick, le film \"Blade Runner\" de 1981 explore la saga des \"r\u00e9plicants\" qui d\u00e9fient leur destruction programm\u00e9e. Le film enqu\u00eate profond\u00e9ment sur les th\u00e8mes de l'identit\u00e9, de la conscience et des implications morales de la vie artificielle."
             },
             "media": {
-                "url": "https://img.lemde.fr/2017/10/04/0/0/1263/1920/664/0/75/0/ffcb259_24311-17sih5m.dco1t0rudi.jpg",
+                "url": "./images/blade-runner.jpg",
                 "caption": "",
-                "thumbnail": "https://img.lemde.fr/2017/10/04/0/0/1263/1920/664/0/75/0/ffcb259_24311-17sih5m.dco1t0rudi.jpg",
+                "thumbnail": "./images/blade-runner.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3139,9 +3168,9 @@
                 "text": "La s\u00e9rie dystopique \"Black Mirror\" est lanc\u00e9e en 2011, explorant les c\u00f4t\u00e9s sombres de la technologie et de l'innovation et leur impact potentiel sur la soci\u00e9t\u00e9, refl\u00e9tant des sc\u00e9narios souvent alarmants mais introspectifs sur notre futur technologique."
             },
             "media": {
-                "url": "https://fr.web.img5.acsta.net/pictures/18/05/22/15/58/5162529.jpg",
+                "url": "./images/black-mirror.jpg",
                 "caption": "",
-                "thumbnail": "https://fr.web.img5.acsta.net/pictures/18/05/22/15/58/5162529.jpg",
+                "thumbnail": "./images/black-mirror.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3168,9 +3197,9 @@
                 "text": "La nouvelle \"I, Robot\" de 1939 par Earl et Otto Binder introduit un robot unique confront\u00e9 \u00e0 des dilemmes \u00e9thiques et sociaux, anticipant les discussions sur les implications morales de l'intelligence artificielle et des robots dans la soci\u00e9t\u00e9."
             },
             "media": {
-                "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465707411i/30525004.jpg",
+                "url": "./images/bender.jpg",
                 "caption": "",
-                "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465707411i/30525004.jpg",
+                "thumbnail": "./images/bender.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3255,9 +3284,9 @@
                 "text": "Charles Babbage con\u00e7oit en 1834 la \"machine analytique\", un projet ambitieux jamais compl\u00e9t\u00e9, mais reconnu comme l'anc\u00eatre des ordinateurs modernes. Cette machine \u00e9tait destin\u00e9e \u00e0 effectuer des calculs complexes automatiquement, pr\u00e9figurant les principes de l'informatique programmable."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Analytical_Engine_%282290032530%29.jpg/1280px-Analytical_Engine_%282290032530%29.jpg",
+                "url": "./images/babbage.jpg",
                 "caption": "Le Moulin (Mill) de la Machine analytique de Charles Babbage, fabriqu\u00e9e sous la direction de son fils Henry Babbage et donn\u00e9 au Mus\u00e9e des Sciences de Londres en 1910. Wikipedia",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Analytical_Engine_%282290032530%29.jpg/1280px-Analytical_Engine_%282290032530%29.jpg",
+                "thumbnail": "./images/babbage.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3284,9 +3313,9 @@
                 "text": "\"Avengers: L'\u00c8re d'Ultron\" pr\u00e9sente en 2015 une IA hors de contr\u00f4le mena\u00e7ant le destin de l'humanit\u00e9, illustrant les craintes populaires concernant les technologies d'intelligence artificielle non r\u00e9gul\u00e9es."
             },
             "media": {
-                "url": "https://fr.web.img4.acsta.net/pictures/15/02/24/18/29/161927.jpg",
+                "url": "./images/avengers.jpg",
                 "caption": "",
-                "thumbnail": "https://fr.web.img4.acsta.net/pictures/15/02/24/18/29/161927.jpg",
+                "thumbnail": "./images/avengers.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3400,7 +3429,7 @@
                 "text": "En 1988, les artistes Michel Bret, Edmond Couchot et Marie-H\u00e9l\u00e8ne Tramus ont d\u00e9velopp\u00e9 les premi\u00e8res \u0153uvres d'art g\u00e9n\u00e9r\u00e9es avec l'aide de l'IA, intitul\u00e9es \"La Plume\" et \"Le Pissenlit\". Ces pi\u00e8ces marquent une \u00e9tape significative dans l'int\u00e9gration de l'intelligence artificielle dans le domaine de l'art, explorant le potentiel cr\u00e9atif de l'IA et de la technologie interactive."
             },
             "media": {
-                "url": "",
+                "url": "https://www.youtube.com/watch?v=uLvKlcc0edU",
                 "caption": "",
                 "thumbnail": "",
                 "alt": "",
@@ -3429,9 +3458,9 @@
                 "text": "Dans son \u0153uvre \"Politique\", Aristote imagine un monde o\u00f9 les navettes tisseraient et les plectres joueraient de la cithare sans intervention humaine. Cette r\u00e9flexion sur l'automatisation anticipe les implications sociales et \u00e9conomiques des technologies autonomes, envisageant une soci\u00e9t\u00e9 o\u00f9 le travail humain est consid\u00e9rablement r\u00e9duit."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/170px-Plato_Pio-Clemetino_Inv305.jpg",
+                "url": "./images/aristote.jpg",
                 "caption": "",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/170px-Plato_Pio-Clemetino_Inv305.jpg",
+                "thumbnail": "./images/aristote.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3454,11 +3483,11 @@
                 "display_date": "2022"
             },
             "text": {
-                "headline": "Thierry Ardisson et les \"Interviews Posthumes\" sur France 2",
+                "headline": "Thierry Ardisson et les \"Interviews Posthumes\"",
                 "text": "En 2022, Thierry Ardisson r\u00e9volutionne la t\u00e9l\u00e9vision fran\u00e7aise avec son \u00e9mission sur France 2 o\u00f9, gr\u00e2ce \u00e0 l'intelligence artificielle, il \"fait parler les morts\". Cette utilisation de la technologie deepfake permet de recr\u00e9er des interviews avec des personnalit\u00e9s disparues, ouvrant un d\u00e9bat \u00e9thique sur l'utilisation de l'IA pour recr\u00e9er des instances de personnes d\u00e9c\u00e9d\u00e9es."
             },
             "media": {
-                "url": "https://youtu.be/I1ONcjYE0kA?si=r3A35b1-cvzUHZHT",
+                "url": "https://www.youtube.com/watch?v=I1ONcjYE0kA",
                 "caption": "",
                 "thumbnail": "",
                 "alt": "",
@@ -3516,7 +3545,7 @@
                 "text": "Le 9 juin 2016, AlphaGo, une IA d\u00e9velopp\u00e9e par Google DeepMind, d\u00e9fait Lee Sedol, champion du monde de jeu de Go, dans un match historique."
             },
             "media": {
-                "url": "https://www.youtube.com/P6eBraOUBLw?si=Amjm43lPIZwnMEwo",
+                "url": "https://www.youtube.com/watch?v=P6eBraOUBLw",
                 "caption": "",
                 "thumbnail": "",
                 "alt": "",
@@ -3545,9 +3574,9 @@
                 "text": "Amazon lance Alexa en 2014, un assistant vocal intelligent qui marque une avanc\u00e9e significative dans l'interaction quotidienne entre l'humain et les technologies bas\u00e9es sur l'IA."
             },
             "media": {
-                "url": "https://ds6yc8t7pnx74.cloudfront.net/content/dam/alexa/alexa-brand-guidelines-2021-refresh-/Alexa_Logo_RGB_SQUID.png",
+                "url": "./images/alexa.png",
                 "caption": "Logo d'Alexa",
-                "thumbnail": "https://ds6yc8t7pnx74.cloudfront.net/content/dam/alexa/alexa-brand-guidelines-2021-refresh-/Alexa_Logo_RGB_SQUID.png",
+                "thumbnail": "./images/alexa.png",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3574,9 +3603,9 @@
                 "text": "Dans son \u0153uvre \"De anima\", \u00e9crite entre 1254 et 1257, Albert le Grand imagine une statue de Minerve en bois qui pourrait ob\u00e9ir aux ordres. Ce concept illustre l'int\u00e9r\u00eat continu pour les figures automatis\u00e9es et leur potentiel dans les r\u00e9cits philosophiques et scientifiques du Moyen \u00c2ge."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vicente_salvador_gomez-san_alberto.jpg",
+                "url": "./images/albert-le-grand.jpg",
                 "caption": "Apparition de la Vierge \u00e0 saint Albert le Grand, Vicente Salvador G\u00f3mez (es) (v. 1660), mus\u00e9e des Beaux-Arts de Valence (Espagne).",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vicente_salvador_gomez-san_alberto.jpg",
+                "thumbnail": "./images/albert-le-grand.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -3632,9 +3661,9 @@
                 "text": "Au XIIe si\u00e8cle, le philosophe Abu al-Abbas as-Sabti aurait d\u00e9velopp\u00e9 le zairja, un dispositif utilis\u00e9 par les astrologues arabes pour g\u00e9n\u00e9rer m\u00e9caniquement des pens\u00e9es consid\u00e9r\u00e9es comme logiques. Cet instrument illustre l'int\u00e9gration pr\u00e9coce de la m\u00e9canique dans le domaine de la pens\u00e9e et de la divination."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Zairja.png",
+                "url": "./images/zairja.jpg",
                 "caption": "Croquis d'un Zairja. Wikipedia.",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/34/Zairja.png",
+                "thumbnail": "./images/zairja.jpg",
                 "alt": "",
                 "title": "",
                 "link": "",
