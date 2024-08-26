@@ -1,7 +1,7 @@
 AUTHOR = 'Stéphane Manet'
 AUTHOR = 'Stéphane Manet'
 SITENAME = "Une histoire de l'intelligence artificielle"
-SITEURL = "https://stephmnt.github.io/IATimeline/"
+SITEURL = "https://stephmnt.github.io/IATimeline"
 METADESCRIPTION = "Découvrez une chronologie détaillée qui explore le développement et l'évolution de l'intelligence artificielle, ainsi que la perception et les réactions des sphères culturelles et intellectuelles."
 PATH = "content"
 

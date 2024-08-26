@@ -13,23 +13,23 @@
     "events": [
         {
             "start_date": {
-                "year": "2017",
-                "month": "06",
-                "day": "12",
+                "year": "2023",
+                "month": "04",
+                "day": "",
                 "hour": "",
                 "minute": "",
                 "second": "",
                 "millisecond": "",
-                "display_date": "12 juin 2017"
+                "display_date": "Avril 2023"
             },
             "text": {
-                "headline": "\"Attention is All You Need\"",
-                "text": "L'article intitul\u00e9 <a href=\"https://arxiv.org/abs/1706.03762\" target=\"_blank\">Attention is All You Need</a> publi\u00e9 en 2017, a introduit le concept r\u00e9volutionnaire des Transformers, une architecture d'apprentissage profond qui utilise un m\u00e9canisme d'attention pour am\u00e9liorer significativement l'efficacit\u00e9 et la pr\u00e9cision des mod\u00e8les de traitement du langage naturel. Cette innovation a jou\u00e9 un r\u00f4le cl\u00e9 dans le d\u00e9veloppement de mod\u00e8les de langage avanc\u00e9s, y compris ceux utilis\u00e9s par OpenAI, tels que GPT-3. Le mod\u00e8le Transformer est devenu la base des progr\u00e8s les plus significatifs dans le domaine de l'intelligence artificielle, influen\u00e7ant non seulement le traitement du langage mais aussi d'autres applications d'apprentissage automatique n\u00e9cessitant la gestion de s\u00e9quences longues et complexes."
+                "headline": "Mistral",
+                "text": "Mistral AI, une entreprise fran\u00e7aise, se consacre \u00e0 l'intelligence artificielle g\u00e9n\u00e9rative, avec un focus sur le d\u00e9veloppement de grands mod\u00e8les de langage, \u00e0 la fois open source et propri\u00e9taires. Reconnue comme une p\u00e9pite fran\u00e7aise, Mistral est \u00e9galement vue comme l'un des leaders europ\u00e9ens de l'intelligence artificielle."
             },
             "media": {
-                "url": "",
+                "url": "./images/mistral.png",
                 "caption": "",
-                "thumbnail": "",
+                "thumbnail": "./images/mistral.png",
                 "alt": "",
                 "title": "",
                 "link": "",
@@ -37,6 +37,35 @@
             },
             "background": "",
             "group": "Scientifique",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "2015",
+                "month": "",
+                "day": "",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "2015"
+            },
+            "text": {
+                "headline": "The singularity is near",
+                "text": "Dans <a href=\"https://amzn.to/3WAFjNz\" target=\"_blank\">The Singularity is Near</a>, Ray Kurzweil popularise en 2015 l'id\u00e9e de la Singularit\u00e9 technologique, une \u00e8re o\u00f9 les humains pourraient transcender les limitations biologiques gr\u00e2ce \u00e0 l'avanc\u00e9e des technologies, notamment l'IA."
+            },
+            "media": {
+                "url": "./images/kurzweil.jpg",
+                "caption": "",
+                "thumbnail": "/images/kurzweil.jpg",
+                "alt": "",
+                "title": "",
+                "link": "https://amzn.to/3WAFjNz",
+                "target": ""
+            },
+            "background": "",
+            "group": "Intellectuel",
             "autolink": "",
             "type": ""
         },
@@ -680,35 +709,6 @@
         },
         {
             "start_date": {
-                "year": "2015",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "2015"
-            },
-            "text": {
-                "headline": "The Singularity is Near",
-                "text": "Dans <a href=\"https://amzn.to/3WAFjNz\" target=\"_blank\">The Singularity is Near</a>, Ray Kurzweil popularise en 2015 l'id\u00e9e de la Singularit\u00e9 technologique, une \u00e8re o\u00f9 les humains pourraient transcender les limitations biologiques gr\u00e2ce \u00e0 l'avanc\u00e9e des technologies, notamment l'IA."
-            },
-            "media": {
-                "url": "./images/kurzweil.jpg",
-                "caption": "",
-                "thumbnail": "/images/kurzweil.jpg",
-                "alt": "",
-                "title": "",
-                "link": "https://amzn.to/3WAFjNz",
-                "target": ""
-            },
-            "background": "",
-            "group": "Intellectuel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
                 "year": "2021",
                 "month": "",
                 "day": "",
@@ -1287,35 +1287,6 @@
             },
             "background": "",
             "group": "Culturel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
-                "year": "2024",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": ""
-            },
-            "text": {
-                "headline": "Mistral",
-                "text": "En 2022, la France lance Mistral, une intelligence artificielle d\u00e9velopp\u00e9e localement visant \u00e0 rivaliser avec les grandes plateformes d'IA mondiales. Mistral repr\u00e9sente une avanc\u00e9e majeure dans le secteur technologique europ\u00e9en."
-            },
-            "media": {
-                "url": "./images/mistral.png",
-                "caption": "",
-                "thumbnail": "./images/mistral.png",
-                "alt": "",
-                "title": "",
-                "link": "",
-                "target": ""
-            },
-            "background": "",
-            "group": "Scientifique",
             "autolink": "",
             "type": ""
         },
@@ -3323,6 +3294,35 @@
             },
             "background": "",
             "group": "Culturel",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "2017",
+                "month": "06",
+                "day": "12",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "12 juin 2017"
+            },
+            "text": {
+                "headline": "\"Attention is All You Need\"",
+                "text": "L'article intitul\u00e9 <a href=\"https://arxiv.org/abs/1706.03762\" target=\"_blank\">Attention is All You Need</a> publi\u00e9 en 2017, a introduit le concept r\u00e9volutionnaire des Transformers, une architecture d'apprentissage profond qui utilise un m\u00e9canisme d'attention pour am\u00e9liorer significativement l'efficacit\u00e9 et la pr\u00e9cision des mod\u00e8les de traitement du langage naturel. Cette innovation a jou\u00e9 un r\u00f4le cl\u00e9 dans le d\u00e9veloppement de mod\u00e8les de langage avanc\u00e9s, y compris ceux utilis\u00e9s par OpenAI, tels que GPT-3. Le mod\u00e8le Transformer est devenu la base des progr\u00e8s les plus significatifs dans le domaine de l'intelligence artificielle, influen\u00e7ant non seulement le traitement du langage mais aussi d'autres applications d'apprentissage automatique n\u00e9cessitant la gestion de s\u00e9quences longues et complexes."
+            },
+            "media": {
+                "url": "",
+                "caption": "",
+                "thumbnail": "",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Scientifique",
             "autolink": "",
             "type": ""
         },
