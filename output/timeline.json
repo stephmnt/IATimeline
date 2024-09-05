@@ -13,6 +13,93 @@
     "events": [
         {
             "start_date": {
+                "year": "1623",
+                "month": "",
+                "day": "",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "1623"
+            },
+            "text": {
+                "headline": "Wilhelm Schickard et l'horloge calculante",
+                "text": "Wilhelm Schickard imagine en 1623 une \"horloge calculante\" dans une lettre \u00e0 son ami Kepler, bien que ce projet n'ait jamais \u00e9t\u00e9 r\u00e9alis\u00e9. Cette id\u00e9e pr\u00e9coce de calculatrice m\u00e9canique anticipe les d\u00e9veloppements futurs de machines \u00e0 calculer et d'ordinateurs."
+            },
+            "media": {
+                "url": "./images/schickard.jpg",
+                "caption": "",
+                "thumbnail": "./images/schickard.jpg",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Scientifique",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "2020",
+                "month": "05",
+                "day": "28",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": ""
+            },
+            "text": {
+                "headline": "Article qui a lanc\u00e9 OpenAI et ChatGPT",
+                "text": "L'article intitul\u00e9 <a href=\"https://arxiv.org/abs/2005.14165\" target=\"_blank\">Language Models are Few-Shot Learners</a> publi\u00e9 le 28 mai 2020, a \u00e9t\u00e9 fondamental dans le d\u00e9veloppement d'OpenAI et de ChatGPT. Cette publication scientifique d\u00e9montre comment les mod\u00e8les de langage, en particulier GPT-3, peuvent apprendre et effectuer des t\u00e2ches vari\u00e9es avec peu d'exemples d'entra\u00eenement, ou \"few-shot learning\"."
+            },
+            "media": {
+                "url": "",
+                "caption": "",
+                "thumbnail": "",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Scientifique",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "1100",
+                "month": "",
+                "day": "",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "XIIe si\u00e8cle"
+            },
+            "text": {
+                "headline": "Le Zairja",
+                "text": "Au XIIe si\u00e8cle, le philosophe Abu al-Abbas as-Sabti aurait d\u00e9velopp\u00e9 le zairja, un dispositif utilis\u00e9 par les astrologues arabes pour g\u00e9n\u00e9rer m\u00e9caniquement des pens\u00e9es consid\u00e9r\u00e9es comme logiques. Cet instrument illustre l'int\u00e9gration pr\u00e9coce de la m\u00e9canique dans le domaine de la pens\u00e9e et de la divination."
+            },
+            "media": {
+                "url": "./images/zairja.jpg",
+                "caption": "Croquis d'un Zairja. Wikipedia.",
+                "thumbnail": "./images/zairja.png",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Intellectuel",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
                 "year": "2023",
                 "month": "04",
                 "day": "",
@@ -762,35 +849,6 @@
             },
             "background": "",
             "group": "Intellectuel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
-                "year": "1623",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "1623"
-            },
-            "text": {
-                "headline": "Wilhelm Schickard et l'horloge calculante",
-                "text": "Wilhelm Schickard imagine en 1623 une \"horloge calculante\" dans une lettre \u00e0 son ami Kepler, bien que ce projet n'ait jamais \u00e9t\u00e9 r\u00e9alis\u00e9. Cette id\u00e9e pr\u00e9coce de calculatrice m\u00e9canique anticipe les d\u00e9veloppements futurs de machines \u00e0 calculer et d'ordinateurs."
-            },
-            "media": {
-                "url": "https://download.vikidia.org/vikidia/fr/images/5/5a/Schickardmaschine.jpg",
-                "caption": "",
-                "thumbnail": "https://download.vikidia.org/vikidia/fr/images/5/5a/Schickardmaschine.jpg",
-                "alt": "",
-                "title": "",
-                "link": "",
-                "target": ""
-            },
-            "background": "",
-            "group": "Scientifique",
             "autolink": "",
             "type": ""
         },
@@ -2922,35 +2980,6 @@
         },
         {
             "start_date": {
-                "year": "2020",
-                "month": "05",
-                "day": "28",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": ""
-            },
-            "text": {
-                "headline": "Article qui a lanc\u00e9 OpenAI et ChatGPT",
-                "text": ""
-            },
-            "media": {
-                "url": "",
-                "caption": "",
-                "thumbnail": "",
-                "alt": "",
-                "title": "",
-                "link": "",
-                "target": ""
-            },
-            "background": "",
-            "group": "Scientifique",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
                 "year": "2009",
                 "month": "",
                 "day": "",
@@ -3642,35 +3671,6 @@
             },
             "background": "",
             "group": "Scientifique",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
-                "year": "1100",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "XIIe si\u00e8cle"
-            },
-            "text": {
-                "headline": "Le Zairja",
-                "text": "Au XIIe si\u00e8cle, le philosophe Abu al-Abbas as-Sabti aurait d\u00e9velopp\u00e9 le zairja, un dispositif utilis\u00e9 par les astrologues arabes pour g\u00e9n\u00e9rer m\u00e9caniquement des pens\u00e9es consid\u00e9r\u00e9es comme logiques. Cet instrument illustre l'int\u00e9gration pr\u00e9coce de la m\u00e9canique dans le domaine de la pens\u00e9e et de la divination."
-            },
-            "media": {
-                "url": "./images/zairja.jpg",
-                "caption": "Croquis d'un Zairja. Wikipedia.",
-                "thumbnail": "./images/zairja.jpg",
-                "alt": "",
-                "title": "",
-                "link": "",
-                "target": ""
-            },
-            "background": "",
-            "group": "Intellectuel",
             "autolink": "",
             "type": ""
         }
