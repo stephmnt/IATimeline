@@ -13,64 +13,6 @@
     "events": [
         {
             "start_date": {
-                "year": "1879",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "1879"
-            },
-            "text": {
-                "headline": "L'Homme le plus dou\u00e9 du monde",
-                "text": "Dans sa nouvelle <a href=\"https://amzn.to/3WGBo1K\" target=\"_blank\">L'Homme le plus dou\u00e9 du monde</a> de 1879, Edward Page Mitchell imagine un homme dont le cerveau est remplac\u00e9 par un ordinateur. Cette fiction explore t\u00f4t les th\u00e8mes de la cybern\u00e9tique et de l'am\u00e9lioration humaine \u00e0 travers la technologie."
-            },
-            "media": {
-                "url": "./image/mitchell.jpg",
-                "caption": "",
-                "thumbnail": "./image/mitchell.jpg",
-                "alt": "",
-                "title": "",
-                "link": "https://amzn.to/3WGBo1K",
-                "target": ""
-            },
-            "background": "",
-            "group": "Culturel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
-                "year": "2019",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "2019"
-            },
-            "text": {
-                "headline": "En attendant les robots",
-                "text": ""
-            },
-            "media": {
-                "url": "",
-                "caption": "",
-                "thumbnail": "",
-                "alt": "",
-                "title": "",
-                "link": "",
-                "target": ""
-            },
-            "background": "",
-            "group": "Intellectuel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
                 "year": "-300",
                 "month": "",
                 "day": "",
@@ -1287,6 +1229,35 @@
             },
             "background": "",
             "group": "Intellectuel",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "1879",
+                "month": "",
+                "day": "",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "1879"
+            },
+            "text": {
+                "headline": "L'Homme le plus dou\u00e9 du monde",
+                "text": "Dans sa nouvelle <a href=\"https://amzn.to/3WGBo1K\" target=\"_blank\">L'Homme le plus dou\u00e9 du monde</a> de 1879, Edward Page Mitchell imagine un homme dont le cerveau est remplac\u00e9 par un ordinateur. Cette fiction explore t\u00f4t les th\u00e8mes de la cybern\u00e9tique et de l'am\u00e9lioration humaine \u00e0 travers la technologie."
+            },
+            "media": {
+                "url": "./image/mitchell.jpg",
+                "caption": "",
+                "thumbnail": "./image/mitchell.jpg",
+                "alt": "",
+                "title": "",
+                "link": "https://amzn.to/3WGBo1K",
+                "target": ""
+            },
+            "background": "",
+            "group": "Culturel",
             "autolink": "",
             "type": ""
         },
@@ -2859,6 +2830,35 @@
             },
             "background": "",
             "group": "Scientifique",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "2019",
+                "month": "",
+                "day": "",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "2019"
+            },
+            "text": {
+                "headline": "En attendant les robots",
+                "text": ""
+            },
+            "media": {
+                "url": "",
+                "caption": "",
+                "thumbnail": "",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Intellectuel",
             "autolink": "",
             "type": ""
         },
