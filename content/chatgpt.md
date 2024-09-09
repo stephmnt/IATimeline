@@ -1,4 +1,4 @@
-Title: Article qui a lancé OpenAI et ChatGPT
+Title: L'article qui a lancé OpenAI et ChatGPT
 Year: 2020
 Month: 05
 Day: 28
