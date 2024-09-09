@@ -13,18 +13,47 @@
     "events": [
         {
             "start_date": {
-                "year": "2020",
-                "month": "05",
-                "day": "28",
+                "year": "1879",
+                "month": "",
+                "day": "",
                 "hour": "",
                 "minute": "",
                 "second": "",
                 "millisecond": "",
-                "display_date": ""
+                "display_date": "1879"
             },
             "text": {
-                "headline": "L'article qui a lanc\u00e9 OpenAI et ChatGPT",
-                "text": "L'article intitul\u00e9 <a href=\"https://arxiv.org/abs/2005.14165\" target=\"_blank\">Language Models are Few-Shot Learners</a> publi\u00e9 le 28 mai 2020, a \u00e9t\u00e9 fondamental dans le d\u00e9veloppement d'OpenAI et de ChatGPT. Cette publication scientifique d\u00e9montre comment les mod\u00e8les de langage, en particulier GPT-3, peuvent apprendre et effectuer des t\u00e2ches vari\u00e9es avec peu d'exemples d'entra\u00eenement, ou \"few-shot learning\"."
+                "headline": "L'Homme le plus dou\u00e9 du monde",
+                "text": "Dans sa nouvelle <a href=\"https://amzn.to/3WGBo1K\" target=\"_blank\">L'Homme le plus dou\u00e9 du monde</a> de 1879, Edward Page Mitchell imagine un homme dont le cerveau est remplac\u00e9 par un ordinateur. Cette fiction explore t\u00f4t les th\u00e8mes de la cybern\u00e9tique et de l'am\u00e9lioration humaine \u00e0 travers la technologie."
+            },
+            "media": {
+                "url": "./image/mitchell.jpg",
+                "caption": "",
+                "thumbnail": "./image/mitchell.jpg",
+                "alt": "",
+                "title": "",
+                "link": "https://amzn.to/3WGBo1K",
+                "target": ""
+            },
+            "background": "",
+            "group": "Culturel",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "2019",
+                "month": "",
+                "day": "",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": "2019"
+            },
+            "text": {
+                "headline": "En attendant les robots",
+                "text": ""
             },
             "media": {
                 "url": "",
@@ -36,7 +65,7 @@
                 "target": ""
             },
             "background": "",
-            "group": "Scientifique",
+            "group": "Intellectuel",
             "autolink": "",
             "type": ""
         },
@@ -1258,35 +1287,6 @@
             },
             "background": "",
             "group": "Intellectuel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
-                "year": "1879",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "1879"
-            },
-            "text": {
-                "headline": "L'Homme le plus dou\u00e9 du monde",
-                "text": "Dans sa nouvelle <a href=\"https://amzn.to/3WGBo1K\" target=\"_blank\">L'Homme le plus dou\u00e9 du monde</a> de 1879, Edward Page Mitchell imagine un homme dont le cerveau est remplac\u00e9 par un ordinateur. Cette fiction explore t\u00f4t les th\u00e8mes de la cybern\u00e9tique et de l'am\u00e9lioration humaine \u00e0 travers la technologie."
-            },
-            "media": {
-                "url": "./image/mitchell.jpg",
-                "caption": "",
-                "thumbnail": "./image/mitchell.jpg",
-                "alt": "",
-                "title": "",
-                "link": "https://amzn.to/3WGBo1K",
-                "target": ""
-            },
-            "background": "",
-            "group": "Culturel",
             "autolink": "",
             "type": ""
         },
@@ -2864,35 +2864,6 @@
         },
         {
             "start_date": {
-                "year": "2019",
-                "month": "",
-                "day": "",
-                "hour": "",
-                "minute": "",
-                "second": "",
-                "millisecond": "",
-                "display_date": "2019"
-            },
-            "text": {
-                "headline": "En attendant les robots",
-                "text": ""
-            },
-            "media": {
-                "url": "",
-                "caption": "",
-                "thumbnail": "",
-                "alt": "",
-                "title": "",
-                "link": "",
-                "target": ""
-            },
-            "background": "",
-            "group": "Intellectuel",
-            "autolink": "",
-            "type": ""
-        },
-        {
-            "start_date": {
                 "year": "2018",
                 "month": "",
                 "day": "",
@@ -2934,6 +2905,35 @@
             "text": {
                 "headline": "Syst\u00e8me de cr\u00e9dit social en Chine",
                 "text": "Le syst\u00e8me de cr\u00e9dit social en Chine, d\u00e9velopp\u00e9 en 2020, utilise des IA pour la reconnaissance automatique dans le cadre de la surveillance et du contr\u00f4le social, illustrant les applications controvers\u00e9es de l'intelligence artificielle dans la gouvernance."
+            },
+            "media": {
+                "url": "",
+                "caption": "",
+                "thumbnail": "",
+                "alt": "",
+                "title": "",
+                "link": "",
+                "target": ""
+            },
+            "background": "",
+            "group": "Scientifique",
+            "autolink": "",
+            "type": ""
+        },
+        {
+            "start_date": {
+                "year": "2020",
+                "month": "05",
+                "day": "28",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "display_date": ""
+            },
+            "text": {
+                "headline": "L'article qui a lanc\u00e9 OpenAI et ChatGPT",
+                "text": "L'article intitul\u00e9 <a href=\"https://arxiv.org/abs/2005.14165\" target=\"_blank\">Language Models are Few-Shot Learners</a> publi\u00e9 le 28 mai 2020, a \u00e9t\u00e9 fondamental dans le d\u00e9veloppement d'OpenAI et de ChatGPT. Cette publication scientifique d\u00e9montre comment les mod\u00e8les de langage, en particulier GPT-3, peuvent apprendre et effectuer des t\u00e2ches vari\u00e9es avec peu d'exemples d'entra\u00eenement, ou \"few-shot learning\"."
             },
             "media": {
                 "url": "",
